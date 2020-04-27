@@ -8,7 +8,7 @@ You can download this project and run the demo first,then replace the pictures a
 `wallpaper-solar.json` to DIY a new wallpaper.
 
 ```
-$ ./wallpapper -i wallpapper-solar.json
+$ ./wallpaper -i wallpaper-solar.json
 ```
 
 - After this you will get file:`output.heic`🎁~
